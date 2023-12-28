@@ -9,7 +9,7 @@ fn main() {
 }
 
 fn test() {
-    println!("{}World", "Hellow ");
+    println!("{}World", "Hello ");
 }
 
 fn test2() {
